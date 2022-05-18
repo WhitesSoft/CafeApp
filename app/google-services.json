@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988832385593",
+    "project_id": "kaife-cataapp",
+    "storage_bucket": "kaife-cataapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988832385593:android:1ac7100b0ed6e35d1fdbe8",
+        "android_client_info": {
+          "package_name": "com.darksoft.kaife_cataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988832385593-6rvuprd2kt02j7ee9h7livu1rg5e3m6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darksoft.kaife_cataapp",
+            "certificate_hash": "788b1fbd7307cb57dd0c0302f4501c80e766d647"
+          }
+        },
+        {
+          "client_id": "988832385593-7hs4d5s6l7g8lj70ou3em8job33qae2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDxBGhYkTwGebJ9UadSYpair4modAqeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988832385593-7hs4d5s6l7g8lj70ou3em8job33qae2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
